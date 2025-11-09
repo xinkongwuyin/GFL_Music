@@ -76,6 +76,8 @@ Players control a character to **hit notes in sync with the music**.
   - 主界面（MainMenu）  
   - 游戏中界面（PlayingPanel）  
   - 暂停界面（PausePanel）  
+！[mind map](https://github.com/xinkongwuyin/GFL_Music/blob/main/Learning%20from%20Music%20Game.pdf)
+
 
 ---
 
