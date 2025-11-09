@@ -87,7 +87,7 @@ Players control a character to **hit notes in sync with the music**.
 - **Audio Sync:** AudioSource.time 与谱面时间对齐  
 
 ---
-https://github.com/xinkongwuyin/GFL_Music/blob/main/GameScene1.png
-https://github.com/xinkongwuyin/GFL_Music/blob/main/GameScene2.png
-https://github.com/xinkongwuyin/GFL_Music/blob/main/GameScene3.png
 
+![游戏截图1](https://github.com/xinkongwuyin/GFL_Music/blob/main/GameScene1.png?raw=true)
+![游戏截图2](https://github.com/xinkongwuyin/GFL_Music/blob/main/GameScene2.png?raw=true)
+![游戏截图3](https://github.com/xinkongwuyin/GFL_Music/blob/main/GameScene3.png?raw=true)
