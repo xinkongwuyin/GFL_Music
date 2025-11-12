@@ -4,7 +4,7 @@
 It is a simple yet engaging rhythm game made with Unity.  
 Players control a character to **hit notes in sync with the music**.  
 
-**《FALL》** 是一款基于 Unity 开发的节奏类游戏。  
+这是一款基于 Unity 开发的节奏类游戏。  
 玩家需要操作角色根据节奏**击中不同轨道的音符**。  
 
 ---
